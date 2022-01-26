@@ -1,4 +1,4 @@
-### Olá, eu sou Isadora Vieira!
+# Olá, eu sou Isadora Vieira!
 
 - 🌱 Estudando JavaScript
 - 😄 Pronomes: ela/dela
@@ -12,3 +12,11 @@
 </div>
 
   ##
+<div style="display: inline_block" ><br>
+  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>  
+
+  
