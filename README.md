@@ -1,7 +1,6 @@
 # Olá, eu sou Isadora Vieira!
 
 - 🌱 Estudando Java
-- 😄 Pronomes: ela/dela
 
 ##
 
