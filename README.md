@@ -1,6 +1,6 @@
 # Olá, eu sou Isadora Vieira!
 
-- 🌱 Estudando Java
+- 🌱 Estudando Java e GoLang
 
 ##
 
@@ -17,6 +17,7 @@
   <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
   <img align="center" height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" height="40em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/go/go-original-wordmark.svg" />
           
 
 </div>  
